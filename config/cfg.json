@@ -1,0 +1,14 @@
+{
+  "log_level": 3,
+  "client_host": ":8084",
+  "delivery_host": "localhost:8083",
+
+  "table_num": 5,
+  "max_order_size": 3,
+  "max_order_items": 3,
+  "max_way_tolerance": true,
+
+  "max_wait_multiplier": 1.3,
+
+  "dial_timeout": 5
+}
